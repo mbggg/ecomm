@@ -1,3 +1,5 @@
+// The demo component
+
 import React from 'react'
 
 const App = () => {
